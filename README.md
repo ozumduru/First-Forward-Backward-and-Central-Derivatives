@@ -3,9 +3,9 @@ Calculate first central, backward and forward high order derivatives. \
 
 source of central_deriv_odd_coeff.m is \
 
-@misc{fdcc,
-  title={Finite Difference Coefficients Calculator},
-  author={Taylor, Cameron R.},
-  year={2016},
-  howpublished="\url{https://web.media.mit.edu/~crtaylor/calculator.html}"
-}
+
+  title = Finite Difference Coefficients Calculator
+  author = Taylor, Cameron R.
+  year = 2016
+  howpublished = \url{https://web.media.mit.edu/~crtaylor/calculator.html
+
