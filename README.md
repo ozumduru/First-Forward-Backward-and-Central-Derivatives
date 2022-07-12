@@ -1,7 +1,7 @@
 # First-Forward-Backward-and-Central-Derivatives
-Calculate first central, backward and forward high order derivatives.\
+Calculate first central, backward and forward high order derivatives.
 
-source of central_deriv_odd_coeff.m is\
+source of central_deriv_odd_coeff.m is
 
 
   title = Finite Difference Coefficients Calculator\
